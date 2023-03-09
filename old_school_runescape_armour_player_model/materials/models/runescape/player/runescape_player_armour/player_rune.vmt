@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Models/Runescape/player/Runescape_Player_Armour/player_rune"
+	"$surfaceprop" "ArmorFlesh"
+}
